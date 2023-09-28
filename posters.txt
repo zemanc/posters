@@ -1,0 +1,1 @@
+Poster 1: Git submodules and you
